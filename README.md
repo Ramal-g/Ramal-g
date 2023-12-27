@@ -1,16 +1,20 @@
-### Hi there 👋
 
-<!--
-**Ramal-g/Ramal-g** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi, I'm Ramal! 👋
 
-Here are some ideas to get you started:
+## Technologys
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
+  ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
+  ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
+  ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
+  ![C#](https://img.shields.io/badge/-CSharp-333333?style=flat&logo=CSharp)
+
+
+## Other Common Github Profile Sections
+👩‍💻 I'm currently working on Archipielago
+
+🧠 I'm currently learning C#
+
+💬 Ask me about Videogames
+
+
