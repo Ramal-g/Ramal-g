@@ -1,5 +1,5 @@
 
-# Hi, I'm Ramal! 👋
+# Hi, I'm Ramila! 👋
 
 ## Technologys
 
